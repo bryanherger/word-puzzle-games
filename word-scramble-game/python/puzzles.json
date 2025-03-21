@@ -1,0 +1,4485 @@
+[
+  {
+    "letters": [
+      "A",
+      "B",
+      "O",
+      "U",
+      "T"
+    ],
+    "answers": [
+      "BAT",
+      "BUT",
+      "OUT",
+      "TUB",
+      "BOAT",
+      "ABOUT"
+    ]
+  },
+  {
+    "letters": [
+      "A",
+      "C",
+      "R",
+      "O",
+      "S",
+      "S"
+    ],
+    "answers": [
+      "CAR",
+      "SOAR",
+      "ACROSS"
+    ]
+  },
+  {
+    "letters": [
+      "A",
+      "F",
+      "R",
+      "A",
+      "I",
+      "D"
+    ],
+    "answers": [
+      "AID",
+      "AIR",
+      "FAR",
+      "AFRAID"
+    ]
+  },
+  {
+    "letters": [
+      "A",
+      "G",
+      "R",
+      "E",
+      "E"
+    ],
+    "answers": [
+      "AGE",
+      "ARE",
+      "RAG",
+      "GEAR",
+      "AGREE"
+    ]
+  },
+  {
+    "letters": [
+      "A",
+      "L",
+      "M",
+      "O",
+      "S",
+      "T"
+    ],
+    "answers": [
+      "LOT",
+      "SAT",
+      "ALSO",
+      "MOST",
+      "ALMOST"
+    ]
+  },
+  {
+    "letters": [
+      "A",
+      "L",
+      "O",
+      "U",
+      "D"
+    ],
+    "answers": [
+      "OLD",
+      "LOUD",
+      "ALOUD"
+    ]
+  },
+  {
+    "letters": [
+      "A",
+      "N",
+      "G",
+      "R",
+      "Y"
+    ],
+    "answers": [
+      "ANY",
+      "RAG",
+      "RAN",
+      "RAY",
+      "ANGRY"
+    ]
+  },
+  {
+    "letters": [
+      "A",
+      "N",
+      "Y",
+      "O",
+      "N",
+      "E"
+    ],
+    "answers": [
+      "ANY",
+      "ONE",
+      "NONE",
+      "ANYONE"
+    ]
+  },
+  {
+    "letters": [
+      "A",
+      "S",
+      "L",
+      "E",
+      "E",
+      "P"
+    ],
+    "answers": [
+      "SEA",
+      "SEE",
+      "SALE",
+      "SLEEP",
+      "ASLEEP",
+      "PLEASE"
+    ]
+  },
+  {
+    "letters": [
+      "A",
+      "W",
+      "H",
+      "I",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "LAW",
+      "HEAL",
+      "AWHILE"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "E",
+      "C",
+      "O",
+      "M",
+      "E"
+    ],
+    "answers": [
+      "BEE",
+      "COMB",
+      "COME",
+      "BECOME"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "E",
+      "F",
+      "O",
+      "R",
+      "E"
+    ],
+    "answers": [
+      "BEE",
+      "FOR",
+      "BEFORE"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "E",
+      "H",
+      "I",
+      "N",
+      "D"
+    ],
+    "answers": [
+      "BED",
+      "END",
+      "HEN",
+      "HID",
+      "BEHIND"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "E",
+      "L",
+      "O",
+      "N",
+      "G"
+    ],
+    "answers": [
+      "LOG",
+      "ONE",
+      "BONE",
+      "LONG",
+      "BELONG"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "E",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "BEE",
+      "TREE",
+      "BETTER"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E"
+    ],
+    "answers": [
+      "BAKE",
+      "BEAN",
+      "BLANKE"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "L",
+      "E",
+      "N",
+      "D"
+    ],
+    "answers": [
+      "BED",
+      "END",
+      "BLEND"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "O",
+      "A",
+      "T",
+      "S"
+    ],
+    "answers": [
+      "BAT",
+      "SAT",
+      "BOAT",
+      "BOATS"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "O",
+      "T",
+      "T",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "LET",
+      "LOT",
+      "TOE",
+      "BOTTLE"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "E",
+      "A",
+      "K",
+      "S"
+    ],
+    "answers": [
+      "ARE",
+      "ASK",
+      "SEA",
+      "BAKE",
+      "BEAR",
+      "BREAKS"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": [
+      "BIG",
+      "BIT",
+      "HIT",
+      "RIGHT",
+      "BRIGHT"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": [
+      "BIG",
+      "BIT",
+      "HIT",
+      "RIGHT",
+      "BRIGHT"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "I",
+      "N",
+      "G"
+    ],
+    "answers": [
+      "BIG",
+      "GRIN",
+      "BRING"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "O",
+      "K",
+      "E",
+      "N"
+    ],
+    "answers": [
+      "ONE",
+      "BONE",
+      "BORN",
+      "BROKE",
+      "BROKEN"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "O",
+      "W",
+      "N"
+    ],
+    "answers": [
+      "NOW",
+      "OWN",
+      "BORN",
+      "BROWN"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "R",
+      "U",
+      "I",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "BUS",
+      "USE",
+      "SURE",
+      "BRUISE"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "I",
+      "L",
+      "D",
+      "S"
+    ],
+    "answers": [
+      "BUS",
+      "LID",
+      "SLID",
+      "BUILD",
+      "BUILDS"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "I",
+      "L",
+      "T"
+    ],
+    "answers": [
+      "BIT",
+      "BUT",
+      "TUB",
+      "BUILT"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "S",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "BUS",
+      "USE",
+      "BUSES"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "S",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "BUS",
+      "USE",
+      "BUSES"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "BUT",
+      "TUB",
+      "TRUE",
+      "TUBE",
+      "BUTTER"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "BUT",
+      "TUB",
+      "TRUE",
+      "TUBE",
+      "BUTTER"
+    ]
+  },
+  {
+    "letters": [
+      "B",
+      "U",
+      "Y",
+      "I",
+      "N",
+      "G"
+    ],
+    "answers": [
+      "BIG",
+      "BUG",
+      "BUN",
+      "BUY",
+      "BUYING"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "K",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "ASK",
+      "SEA",
+      "CAKE",
+      "CAKES"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "L",
+      "V",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "SEA",
+      "SALE",
+      "SCALE",
+      "CALVES"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "M",
+      "E",
+      "R",
+      "A"
+    ],
+    "answers": [
+      "ARE",
+      "CAR",
+      "CAME",
+      "CAMERA"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "M",
+      "P",
+      "U",
+      "S"
+    ],
+    "answers": [
+      "CAP",
+      "MAP",
+      "CAMPUS"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "N",
+      "D",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "AND",
+      "CAN",
+      "END",
+      "LAND",
+      "CLEAN",
+      "CANDLE"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "N",
+      "N",
+      "O",
+      "T"
+    ],
+    "answers": [
+      "CAN",
+      "CAT",
+      "NOT",
+      "TON",
+      "COAT",
+      "CANNOT"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "D",
+      "S"
+    ],
+    "answers": [
+      "CAR",
+      "SAD",
+      "CARDS"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "R",
+      "R",
+      "Y"
+    ],
+    "answers": [
+      "CAR",
+      "RAY",
+      "CARRY"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "T",
+      "C",
+      "H"
+    ],
+    "answers": [
+      "CAT",
+      "HAT",
+      "CATCH"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "U",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": [
+      "CAT",
+      "CUT",
+      "HAT",
+      "HUG",
+      "TAG",
+      "CAUGHT"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "A",
+      "U",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SEA",
+      "USE",
+      "CAUSE",
+      "SAUCE"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "E",
+      "N",
+      "T",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "TEN",
+      "TREE",
+      "CENTER"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "H",
+      "A",
+      "I",
+      "R"
+    ],
+    "answers": [
+      "AIR",
+      "CAR",
+      "CHAIR"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "H",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    "answers": [
+      "CAN",
+      "HEN",
+      "EACH",
+      "CHANCE"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "H",
+      "A",
+      "N",
+      "G",
+      "E"
+    ],
+    "answers": [
+      "AGE",
+      "CAN",
+      "HEN",
+      "EACH",
+      "CHANGE"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "H",
+      "A",
+      "N",
+      "G",
+      "E"
+    ],
+    "answers": [
+      "AGE",
+      "CAN",
+      "HEN",
+      "EACH",
+      "CHANGE"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "H",
+      "E",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "HER",
+      "HERE",
+      "CHEER"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "H",
+      "E",
+      "E",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SEE",
+      "SHE",
+      "CHEESE"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "H",
+      "I",
+      "L",
+      "D"
+    ],
+    "answers": [
+      "HID",
+      "LID",
+      "CHILD"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "H",
+      "O",
+      "O",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SHE",
+      "HOSE",
+      "CHOSE",
+      "CHOOSE"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "H",
+      "O",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SHE",
+      "HOSE",
+      "CHOSE"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "I",
+      "T",
+      "I",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "ITS",
+      "SET",
+      "SIT",
+      "CITIES"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "L",
+      "E",
+      "A",
+      "R"
+    ],
+    "answers": [
+      "ARE",
+      "CAR",
+      "CLEAR"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "L",
+      "O",
+      "T",
+      "H",
+      "E"
+    ],
+    "answers": [
+      "HOT",
+      "LET",
+      "LOT",
+      "THE",
+      "TOE",
+      "CLOTHE"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "L",
+      "O",
+      "W",
+      "N"
+    ],
+    "answers": [
+      "LOW",
+      "NOW",
+      "OWN",
+      "CLOWN"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "A",
+      "S",
+      "T"
+    ],
+    "answers": [
+      "CAT",
+      "SAT",
+      "COAT",
+      "COAST",
+      "COATS"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "A",
+      "T",
+      "S"
+    ],
+    "answers": [
+      "CAT",
+      "SAT",
+      "COAT",
+      "COAST",
+      "COATS"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "L",
+      "L",
+      "A",
+      "R"
+    ],
+    "answers": [
+      "ALL",
+      "CAR",
+      "CALL",
+      "COAL",
+      "ROLL",
+      "COLLAR"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "R",
+      "N",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "ONE",
+      "CONE",
+      "ONCE",
+      "CORNER"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "T",
+      "T",
+      "O",
+      "N"
+    ],
+    "answers": [
+      "NOT",
+      "TON",
+      "TOO",
+      "COTTON"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "U",
+      "G",
+      "H"
+    ],
+    "answers": [
+      "HOG",
+      "HUG",
+      "COUGH"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "U",
+      "L",
+      "D"
+    ],
+    "answers": [
+      "OLD",
+      "COLD",
+      "LOUD",
+      "COULD"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "U",
+      "N",
+      "T"
+    ],
+    "answers": [
+      "CUT",
+      "NOT",
+      "OUT",
+      "TON",
+      "COUNT"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "U",
+      "R",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "OUR",
+      "USE",
+      "ROSE",
+      "SURE",
+      "COURSE"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "O",
+      "U",
+      "S",
+      "I",
+      "N"
+    ],
+    "answers": [
+      "SUN",
+      "COIN",
+      "COUSIN"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "A",
+      "W",
+      "L"
+    ],
+    "answers": [
+      "CAR",
+      "LAW",
+      "CRAWL"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "A",
+      "Y",
+      "O",
+      "N"
+    ],
+    "answers": [
+      "ANY",
+      "CAN",
+      "CAR",
+      "RAN",
+      "RAY",
+      "CRAYON"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "A",
+      "Z",
+      "Y"
+    ],
+    "answers": [
+      "CAR",
+      "RAY",
+      "CRAZY"
+    ]
+  },
+  {
+    "letters": [
+      "C",
+      "R",
+      "O",
+      "W",
+      "D"
+    ],
+    "answers": [
+      "CROW",
+      "WORD",
+      "CROWD"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "A",
+      "M",
+      "A",
+      "G",
+      "E"
+    ],
+    "answers": [
+      "AGE",
+      "GAME",
+      "MADE",
+      "DAMAGE"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "E",
+      "G",
+      "R",
+      "E",
+      "E"
+    ],
+    "answers": [
+      "RED",
+      "DEER",
+      "EDGE",
+      "DEGREE"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "I",
+      "N",
+      "N",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "END",
+      "RED",
+      "NINE",
+      "RIDE",
+      "DINNER"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "I",
+      "R",
+      "T",
+      "Y"
+    ],
+    "answers": [
+      "DRY",
+      "TRY",
+      "DIRTY"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "C",
+      "T",
+      "O",
+      "R"
+    ],
+    "answers": [
+      "ROT",
+      "TOO",
+      "DOOR",
+      "DOCTOR"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "L",
+      "L",
+      "A",
+      "R"
+    ],
+    "answers": [
+      "ALL",
+      "OLD",
+      "ROAD",
+      "ROLL",
+      "DOLLAR"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "N",
+      "'",
+      "T"
+    ],
+    "answers": [
+      "NOT",
+      "TON",
+      "DON'T"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "O",
+      "U",
+      "B",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "BED",
+      "OLD",
+      "BLUE",
+      "LOUD",
+      "DOUBLE"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "R",
+      "A",
+      "I",
+      "N"
+    ],
+    "answers": [
+      "AID",
+      "AIR",
+      "AND",
+      "RAN",
+      "DRAIN"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "R",
+      "A",
+      "W",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "ARE",
+      "RED",
+      "DEAR",
+      "DRAW",
+      "READ",
+      "DRAWER"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "R",
+      "E",
+      "A",
+      "M"
+    ],
+    "answers": [
+      "ARE",
+      "RED",
+      "DEAR",
+      "MADE",
+      "READ",
+      "DREAM"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "R",
+      "I",
+      "N",
+      "K"
+    ],
+    "answers": [
+      "KID",
+      "KIND",
+      "DRINK"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "R",
+      "I",
+      "N",
+      "K"
+    ],
+    "answers": [
+      "KID",
+      "KIND",
+      "DRINK"
+    ]
+  },
+  {
+    "letters": [
+      "D",
+      "R",
+      "I",
+      "V",
+      "E"
+    ],
+    "answers": [
+      "RED",
+      "RIDE",
+      "DRIVE"
+    ]
+  },
+  {
+    "letters": [
+      "E",
+      "A",
+      "R",
+      "L",
+      "Y"
+    ],
+    "answers": [
+      "ARE",
+      "RAY",
+      "YEAR",
+      "EARLY"
+    ]
+  },
+  {
+    "letters": [
+      "E",
+      "A",
+      "S",
+      "I",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "AIR",
+      "ARE",
+      "SEA",
+      "SEE",
+      "RAISE",
+      "EASIER"
+    ]
+  },
+  {
+    "letters": [
+      "E",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": [
+      "GET",
+      "HIT",
+      "THE",
+      "EIGHT"
+    ]
+  },
+  {
+    "letters": [
+      "E",
+      "N",
+      "O",
+      "U",
+      "G",
+      "H"
+    ],
+    "answers": [
+      "HEN",
+      "HOG",
+      "HUG",
+      "ONE",
+      "ENOUGH"
+    ]
+  },
+  {
+    "letters": [
+      "E",
+      "X",
+      "A",
+      "C",
+      "T"
+    ],
+    "answers": [
+      "ATE",
+      "CAT",
+      "EAT",
+      "EXACT"
+    ]
+  },
+  {
+    "letters": [
+      "E",
+      "X",
+      "C",
+      "E",
+      "P",
+      "T"
+    ],
+    "answers": [
+      "PET",
+      "EXCEPT",
+      "EXPECT"
+    ]
+  },
+  {
+    "letters": [
+      "E",
+      "X",
+      "P",
+      "E",
+      "C",
+      "T"
+    ],
+    "answers": [
+      "PET",
+      "EXCEPT",
+      "EXPECT"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "A",
+      "L",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SEA",
+      "SAFE",
+      "SALE",
+      "SELF",
+      "FALSE"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y"
+    ],
+    "answers": [
+      "FLY",
+      "MAY",
+      "FAMILY"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y"
+    ],
+    "answers": [
+      "FLY",
+      "MAY",
+      "FAMILY"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "I",
+      "F",
+      "T",
+      "H"
+    ],
+    "answers": [
+      "FIT",
+      "HIT",
+      "FIFTH"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": [
+      "FIT",
+      "HIT",
+      "GIFT",
+      "FIGHT"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "I",
+      "R",
+      "S",
+      "T"
+    ],
+    "answers": [
+      "FIT",
+      "ITS",
+      "SIT",
+      "FIRST"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "L",
+      "I",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "LIFE",
+      "SELF",
+      "FLIES"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "O",
+      "L",
+      "L",
+      "O",
+      "W"
+    ],
+    "answers": [
+      "LOW",
+      "FLOW",
+      "FOLLOW"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D"
+    ],
+    "answers": [
+      "END",
+      "FED",
+      "RED",
+      "FIND",
+      "RIDE",
+      "FRIEND"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D"
+    ],
+    "answers": [
+      "END",
+      "FED",
+      "RED",
+      "FIND",
+      "RIDE",
+      "FRIEND"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "R",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": [
+      "FIT",
+      "HIT",
+      "GIFT",
+      "FIGHT",
+      "RIGHT",
+      "FRIGHT"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "R",
+      "O",
+      "G",
+      "S"
+    ],
+    "answers": [
+      "FOG",
+      "FOR",
+      "FROG",
+      "FROGS"
+    ]
+  },
+  {
+    "letters": [
+      "F",
+      "R",
+      "O",
+      "N",
+      "T"
+    ],
+    "answers": [
+      "FOR",
+      "NOT",
+      "ROT",
+      "TON",
+      "FORT",
+      "FRONT"
+    ]
+  },
+  {
+    "letters": [
+      "G",
+      "A",
+      "M",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "AGE",
+      "SEA",
+      "GAME",
+      "GAMES"
+    ]
+  },
+  {
+    "letters": [
+      "G",
+      "E",
+      "N",
+      "T",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "GET",
+      "LET",
+      "TEN",
+      "GENTLE"
+    ]
+  },
+  {
+    "letters": [
+      "G",
+      "I",
+      "A",
+      "N",
+      "T"
+    ],
+    "answers": [
+      "TAG",
+      "GAIN",
+      "GIANT"
+    ]
+  },
+  {
+    "letters": [
+      "G",
+      "I",
+      "F",
+      "T",
+      "S"
+    ],
+    "answers": [
+      "FIT",
+      "ITS",
+      "SIT",
+      "GIFT",
+      "GIFTS"
+    ]
+  },
+  {
+    "letters": [
+      "G",
+      "L",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    "answers": [
+      "AGE",
+      "CAN",
+      "CLEAN",
+      "GLANCE"
+    ]
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "O",
+      "U",
+      "P"
+    ],
+    "answers": [
+      "OUR",
+      "RUG",
+      "GROUP"
+    ]
+  },
+  {
+    "letters": [
+      "G",
+      "R",
+      "O",
+      "W",
+      "N"
+    ],
+    "answers": [
+      "NOW",
+      "OWN",
+      "GROW",
+      "GROWN",
+      "WRONG"
+    ]
+  },
+  {
+    "letters": [
+      "G",
+      "U",
+      "A",
+      "R",
+      "D"
+    ],
+    "answers": [
+      "RAG",
+      "RUG",
+      "GUARD"
+    ]
+  },
+  {
+    "letters": [
+      "G",
+      "U",
+      "E",
+      "S",
+      "T"
+    ],
+    "answers": [
+      "GET",
+      "SET",
+      "USE",
+      "GUEST"
+    ]
+  },
+  {
+    "letters": [
+      "H",
+      "A",
+      "P",
+      "P",
+      "E",
+      "N"
+    ],
+    "answers": [
+      "HEN",
+      "PEN",
+      "HAPPEN"
+    ]
+  },
+  {
+    "letters": [
+      "H",
+      "I",
+      "L",
+      "L",
+      "S"
+    ],
+    "answers": [
+      "HIS",
+      "HILL",
+      "HILLS"
+    ]
+  },
+  {
+    "letters": [
+      "H",
+      "O",
+      "N",
+      "E",
+      "Y"
+    ],
+    "answers": [
+      "HEN",
+      "ONE",
+      "HONEY"
+    ]
+  },
+  {
+    "letters": [
+      "H",
+      "O",
+      "P",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "HOP",
+      "SHE",
+      "HOPE",
+      "HOSE",
+      "HOPES"
+    ]
+  },
+  {
+    "letters": [
+      "H",
+      "O",
+      "R",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "HER",
+      "SHE",
+      "HOSE",
+      "ROSE",
+      "HORSE"
+    ]
+  },
+  {
+    "letters": [
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SHE",
+      "USE",
+      "HOSE",
+      "HOUSE"
+    ]
+  },
+  {
+    "letters": [
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SHE",
+      "USE",
+      "HOSE",
+      "HOUSE"
+    ]
+  },
+  {
+    "letters": [
+      "H",
+      "U",
+      "N",
+      "G",
+      "R",
+      "Y"
+    ],
+    "answers": [
+      "HUG",
+      "RUG",
+      "RUN",
+      "HUNGRY"
+    ]
+  },
+  {
+    "letters": [
+      "I",
+      "S",
+      "N",
+      "'",
+      "T"
+    ],
+    "answers": [
+      "ITS",
+      "SIT",
+      "IT'S",
+      "ISN'T"
+    ]
+  },
+  {
+    "letters": [
+      "K",
+      "I",
+      "T",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "ITS",
+      "SET",
+      "SIT",
+      "KITES"
+    ]
+  },
+  {
+    "letters": [
+      "K",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": [
+      "HIT",
+      "THIN",
+      "NIGHT",
+      "THING",
+      "THINK",
+      "KNIGHT"
+    ]
+  },
+  {
+    "letters": [
+      "K",
+      "N",
+      "O",
+      "W",
+      "N"
+    ],
+    "answers": [
+      "NOW",
+      "OWN",
+      "KNOW",
+      "KNOWN"
+    ]
+  },
+  {
+    "letters": [
+      "L",
+      "A",
+      "R",
+      "G",
+      "E"
+    ],
+    "answers": [
+      "AGE",
+      "ARE",
+      "RAG",
+      "GEAR",
+      "LARGE"
+    ]
+  },
+  {
+    "letters": [
+      "L",
+      "E",
+      "A",
+      "R",
+      "N"
+    ],
+    "answers": [
+      "ARE",
+      "RAN",
+      "EARN",
+      "NEAR",
+      "LEARN"
+    ]
+  },
+  {
+    "letters": [
+      "L",
+      "E",
+      "A",
+      "R",
+      "N"
+    ],
+    "answers": [
+      "ARE",
+      "RAN",
+      "EARN",
+      "NEAR",
+      "LEARN"
+    ]
+  },
+  {
+    "letters": [
+      "L",
+      "I",
+      "T",
+      "T",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "LET",
+      "TELL",
+      "LITTLE"
+    ]
+  },
+  {
+    "letters": [
+      "L",
+      "I",
+      "V",
+      "E",
+      "D"
+    ],
+    "answers": [
+      "LID",
+      "LIVE",
+      "LIVED"
+    ]
+  },
+  {
+    "letters": [
+      "L",
+      "O",
+      "N",
+      "E",
+      "L",
+      "Y"
+    ],
+    "answers": [
+      "ONE",
+      "ONLY",
+      "LONELY"
+    ]
+  },
+  {
+    "letters": [
+      "L",
+      "U",
+      "M",
+      "B",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "BLUE",
+      "RULE",
+      "LUMBER"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "T",
+      "C",
+      "H"
+    ],
+    "answers": [
+      "CAT",
+      "HAT",
+      "MATCH"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "A",
+      "Y",
+      "O",
+      "R"
+    ],
+    "answers": [
+      "MAY",
+      "RAY",
+      "MAYOR"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "E",
+      "D",
+      "A",
+      "L"
+    ],
+    "answers": [
+      "MADE",
+      "MEAL",
+      "MEDAL"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "E",
+      "T",
+      "H",
+      "O",
+      "D"
+    ],
+    "answers": [
+      "HOT",
+      "THE",
+      "TOE",
+      "HOME",
+      "THEM",
+      "METHOD"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "I",
+      "D",
+      "D",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "DID",
+      "LID",
+      "MIDDLE"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": [
+      "HIM",
+      "HIT",
+      "MIGHT"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "N",
+      "K",
+      "E",
+      "Y"
+    ],
+    "answers": [
+      "KEY",
+      "MEN",
+      "ONE",
+      "MONKEY"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "USE",
+      "SOME",
+      "MOUSE"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "USE",
+      "SOME",
+      "MOUSE"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "O",
+      "U",
+      "T",
+      "H"
+    ],
+    "answers": [
+      "HOT",
+      "OUT",
+      "MOUTH"
+    ]
+  },
+  {
+    "letters": [
+      "M",
+      "Y",
+      "S",
+      "E",
+      "L",
+      "F"
+    ],
+    "answers": [
+      "FLY",
+      "YES",
+      "SELF",
+      "MYSELF"
+    ]
+  },
+  {
+    "letters": [
+      "N",
+      "I",
+      "C",
+      "K",
+      "E",
+      "L"
+    ],
+    "answers": [
+      "LICK",
+      "LIKE",
+      "LINE",
+      "LINK",
+      "NICKEL"
+    ]
+  },
+  {
+    "letters": [
+      "N",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": [
+      "HIT",
+      "THIN",
+      "NIGHT",
+      "THING"
+    ]
+  },
+  {
+    "letters": [
+      "N",
+      "I",
+      "N",
+      "E",
+      "T",
+      "Y"
+    ],
+    "answers": [
+      "TEN",
+      "YET",
+      "NINE",
+      "TINY",
+      "NINETY"
+    ]
+  },
+  {
+    "letters": [
+      "N",
+      "I",
+      "N",
+      "T",
+      "H"
+    ],
+    "answers": [
+      "HIT",
+      "THIN",
+      "NINTH"
+    ]
+  },
+  {
+    "letters": [
+      "N",
+      "O",
+      "B",
+      "O",
+      "D",
+      "Y"
+    ],
+    "answers": [
+      "BOY",
+      "BODY",
+      "NOBODY"
+    ]
+  },
+  {
+    "letters": [
+      "N",
+      "O",
+      "I",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "ONE",
+      "NOSE",
+      "NOISE"
+    ]
+  },
+  {
+    "letters": [
+      "N",
+      "O",
+      " ",
+      "O",
+      "N",
+      "E"
+    ],
+    "answers": [
+      "ONE",
+      "NONE",
+      "NO ONE"
+    ]
+  },
+  {
+    "letters": [
+      "O",
+      "B",
+      "E",
+      "Y",
+      "E",
+      "D"
+    ],
+    "answers": [
+      "BED",
+      "BEE",
+      "BOY",
+      "BODY",
+      "OBEYED"
+    ]
+  },
+  {
+    "letters": [
+      "O",
+      "B",
+      "J",
+      "E",
+      "C",
+      "T"
+    ],
+    "answers": [
+      "JET",
+      "JOB",
+      "TOE",
+      "OBJECT"
+    ]
+  },
+  {
+    "letters": [
+      "O",
+      "F",
+      "T",
+      "E",
+      "N"
+    ],
+    "answers": [
+      "NOT",
+      "ONE",
+      "TEN",
+      "TOE",
+      "TON",
+      "OFTEN"
+    ]
+  },
+  {
+    "letters": [
+      "O",
+      "T",
+      "H",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "HER",
+      "HOT",
+      "ROT",
+      "THE",
+      "TOE",
+      "OTHER"
+    ]
+  },
+  {
+    "letters": [
+      "O",
+      "U",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": [
+      "GOT",
+      "HOG",
+      "HOT",
+      "HUG",
+      "OUT",
+      "OUGHT"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "I",
+      "N",
+      "T"
+    ],
+    "answers": [
+      "PIN",
+      "TAP",
+      "TIP",
+      "PAINT"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "I",
+      "N",
+      "T"
+    ],
+    "answers": [
+      "PIN",
+      "TAP",
+      "TIP",
+      "PAINT"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "R",
+      "K",
+      "I",
+      "N"
+    ],
+    "answers": [
+      "AIR",
+      "PIN",
+      "RAN",
+      "RIP",
+      "PARK",
+      "PARKIN"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "A",
+      "U",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SEA",
+      "USE",
+      "PAUSE"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "E",
+      "N",
+      "C",
+      "I",
+      "L"
+    ],
+    "answers": [
+      "LIP",
+      "PEN",
+      "PIN",
+      "LINE",
+      "PENCIL"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "E",
+      "R",
+      "M",
+      "I",
+      "T"
+    ],
+    "answers": [
+      "PET",
+      "RIP",
+      "TIP",
+      "TIME",
+      "PERMIT"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "L",
+      "A",
+      "N",
+      "T"
+    ],
+    "answers": [
+      "TAP",
+      "PLAN",
+      "PLANT"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "L",
+      "E",
+      "A",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SEA",
+      "SEE",
+      "SALE",
+      "SLEEP",
+      "ASLEEP",
+      "PLEASE"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "L",
+      "U",
+      "R",
+      "A",
+      "L"
+    ],
+    "answers": [
+      "ALL",
+      "PULL",
+      "PLURAL"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "O",
+      "I",
+      "S",
+      "O",
+      "N"
+    ],
+    "answers": [
+      "PIN",
+      "SOON",
+      "POISON"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "E",
+      "T",
+      "T",
+      "Y"
+    ],
+    "answers": [
+      "PET",
+      "TRY",
+      "YET",
+      "TYPE",
+      "PRETTY"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "R",
+      "I",
+      "Z",
+      "E"
+    ],
+    "answers": [
+      "RIP",
+      "ZIP",
+      "PRIZE"
+    ]
+  },
+  {
+    "letters": [
+      "P",
+      "U",
+      "B",
+      "L",
+      "I",
+      "C"
+    ],
+    "answers": [
+      "CUB",
+      "LIP",
+      "PUBLIC"
+    ]
+  },
+  {
+    "letters": [
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T"
+    ],
+    "answers": [
+      "QUIT",
+      "QUIET",
+      "QUITE"
+    ]
+  },
+  {
+    "letters": [
+      "Q",
+      "U",
+      "I",
+      "T",
+      "E"
+    ],
+    "answers": [
+      "QUIT",
+      "QUIET",
+      "QUITE"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "B",
+      "B",
+      "I",
+      "T"
+    ],
+    "answers": [
+      "AIR",
+      "BAT",
+      "BIT",
+      "RAT",
+      "TAR",
+      "RABBIT"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "D",
+      "I",
+      "O"
+    ],
+    "answers": [
+      "AID",
+      "AIR",
+      "ROAD",
+      "RADIO"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "I",
+      "N",
+      "S"
+    ],
+    "answers": [
+      "AIR",
+      "RAN",
+      "RAINS"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "I",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "AIR",
+      "ARE",
+      "SEA",
+      "RAISE"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "A",
+      "R",
+      "E",
+      "L",
+      "Y"
+    ],
+    "answers": [
+      "ARE",
+      "RAY",
+      "YEAR",
+      "EARLY",
+      "RARELY"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "A",
+      "C",
+      "H"
+    ],
+    "answers": [
+      "ARE",
+      "CAR",
+      "HER",
+      "EACH",
+      "REACH"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "C",
+      "O",
+      "R",
+      "D"
+    ],
+    "answers": [
+      "RED",
+      "RODE",
+      "RECORD"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "G",
+      "I",
+      "O",
+      "N"
+    ],
+    "answers": [
+      "ONE",
+      "GRIN",
+      "REGION"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "M",
+      "O",
+      "V",
+      "E"
+    ],
+    "answers": [
+      "MORE",
+      "MOVE",
+      "OVER",
+      "REMOVE"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "P",
+      "A",
+      "Y"
+    ],
+    "answers": [
+      "ARE",
+      "PAY",
+      "RAY",
+      "YEAR",
+      "REPAY"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    "answers": [
+      "PET",
+      "ROT",
+      "TOE",
+      "TOP",
+      "REPORT"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "E",
+      "T",
+      "U",
+      "R",
+      "N"
+    ],
+    "answers": [
+      "RUN",
+      "TEN",
+      "TRUE",
+      "TUNE",
+      "TURN",
+      "RETURN"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "I",
+      "D",
+      "G",
+      "E"
+    ],
+    "answers": [
+      "DIG",
+      "RED",
+      "RIDE",
+      "RIDGE"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "I",
+      "D",
+      "I",
+      "N",
+      "G"
+    ],
+    "answers": [
+      "DIG",
+      "GRIN",
+      "RIDING"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "I",
+      "S",
+      "I",
+      "N",
+      "G"
+    ],
+    "answers": [
+      "GRIN",
+      "SIGN",
+      "SING",
+      "RISING"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "A",
+      "D",
+      "S"
+    ],
+    "answers": [
+      "SAD",
+      "ROAD",
+      "SOAR",
+      "ROADS"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "A",
+      "S",
+      "T"
+    ],
+    "answers": [
+      "RAT",
+      "ROT",
+      "SAT",
+      "TAR",
+      "SOAR",
+      "ROAST"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "U",
+      "G",
+      "H"
+    ],
+    "answers": [
+      "HOG",
+      "HUG",
+      "OUR",
+      "RUG",
+      "HOUR",
+      "ROUGH"
+    ]
+  },
+  {
+    "letters": [
+      "R",
+      "O",
+      "U",
+      "N",
+      "D"
+    ],
+    "answers": [
+      "OUR",
+      "RUN",
+      "ROUND"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "A",
+      "N",
+      "D",
+      "A",
+      "L"
+    ],
+    "answers": [
+      "AND",
+      "SAD",
+      "LAND",
+      "SAND",
+      "SALAD",
+      "SANDAL"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "A",
+      "U",
+      "C",
+      "E"
+    ],
+    "answers": [
+      "SEA",
+      "USE",
+      "CAUSE",
+      "SAUCE"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "C",
+      "A",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "SEA",
+      "SALE",
+      "SCALE"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "C",
+      "E",
+      "N",
+      "T"
+    ],
+    "answers": [
+      "SET",
+      "TEN",
+      "NEST",
+      "SCENT"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "C",
+      "R",
+      "A",
+      "P"
+    ],
+    "answers": [
+      "CAP",
+      "CAR",
+      "SCRAP"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "C",
+      "R",
+      "E",
+      "A",
+      "M"
+    ],
+    "answers": [
+      "ARE",
+      "CAR",
+      "SEA",
+      "CAME",
+      "SCREAM"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "E",
+      "A",
+      "S",
+      "O",
+      "N"
+    ],
+    "answers": [
+      "ONE",
+      "SEA",
+      "NOSE",
+      "SEASON"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "E",
+      "V",
+      "E",
+      "N"
+    ],
+    "answers": [
+      "SEE",
+      "EVEN",
+      "SEVEN"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "H",
+      "A",
+      "L",
+      "L"
+    ],
+    "answers": [
+      "ALL",
+      "HAS",
+      "SHALL"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "H",
+      "A",
+      "P",
+      "E"
+    ],
+    "answers": [
+      "HAS",
+      "SEA",
+      "SHE",
+      "SHAPE"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "H",
+      "A",
+      "R",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "ARE",
+      "HAS",
+      "HER",
+      "SEA",
+      "SHE",
+      "SHARES"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "H",
+      "E",
+      "L",
+      "F"
+    ],
+    "answers": [
+      "SHE",
+      "SELF",
+      "SHELF"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "H",
+      "O",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "SHE",
+      "HOSE",
+      "SHOES"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "H",
+      "O",
+      "U",
+      "L",
+      "D"
+    ],
+    "answers": [
+      "OLD",
+      "HOLD",
+      "LOUD",
+      "SHOULD"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "H",
+      "O",
+      "U",
+      "T"
+    ],
+    "answers": [
+      "HOT",
+      "OUT",
+      "SHOT",
+      "SHOUT"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "G",
+      "N",
+      "A",
+      "L"
+    ],
+    "answers": [
+      "GAIN",
+      "SAIL",
+      "SIGN",
+      "SING",
+      "SIGNAL"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "M",
+      "P",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "LIP",
+      "LIPS",
+      "SLIP",
+      "SIMPLE"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "N",
+      "G",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "GRIN",
+      "SIGN",
+      "SING",
+      "SINGER"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "N",
+      "G",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "LINE",
+      "SIGN",
+      "SING",
+      "SINGLE"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "S",
+      "T",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "ITS",
+      "SET",
+      "SIT",
+      "REST",
+      "TRIES",
+      "SISTER"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "I",
+      "X",
+      "T",
+      "Y"
+    ],
+    "answers": [
+      "ITS",
+      "SIT",
+      "SIX",
+      "SIXTY"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "L",
+      "E",
+      "P",
+      "T"
+    ],
+    "answers": [
+      "LET",
+      "PET",
+      "SET",
+      "LETS",
+      "SLEPT"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "L",
+      "I",
+      "D",
+      "E"
+    ],
+    "answers": [
+      "LID",
+      "SIDE",
+      "SLID",
+      "SLIDE"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "M",
+      "O",
+      "O",
+      "T",
+      "H"
+    ],
+    "answers": [
+      "HOT",
+      "TOO",
+      "MOST",
+      "SHOT",
+      "SMOOTH"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "N",
+      "A",
+      "C",
+      "K"
+    ],
+    "answers": [
+      "ASK",
+      "CAN",
+      "SNACK"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "N",
+      "A",
+      "C",
+      "K"
+    ],
+    "answers": [
+      "ASK",
+      "CAN",
+      "SNACK"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "O",
+      "L",
+      "V",
+      "E"
+    ],
+    "answers": [
+      "LOSE",
+      "LOVE",
+      "LOVES",
+      "SOLVE"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "P",
+      "A",
+      "R",
+      "E"
+    ],
+    "answers": [
+      "ARE",
+      "SEA",
+      "SPARE"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "P",
+      "E",
+      "A",
+      "K"
+    ],
+    "answers": [
+      "ASK",
+      "SEA",
+      "SPEAK"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "P",
+      "E",
+      "E",
+      "D"
+    ],
+    "answers": [
+      "SEE",
+      "DEEP",
+      "SPEED"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "P",
+      "O",
+      "R",
+      "T",
+      "S"
+    ],
+    "answers": [
+      "ROT",
+      "TOP",
+      "SPOT",
+      "STOP",
+      "SPORTS"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E"
+    ],
+    "answers": [
+      "ARE",
+      "SEA",
+      "USE",
+      "SURE",
+      "SQUARE"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "A",
+      "I",
+      "N"
+    ],
+    "answers": [
+      "ITS",
+      "SAT",
+      "SIT",
+      "STAIN"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "A",
+      "M",
+      "P"
+    ],
+    "answers": [
+      "MAP",
+      "SAT",
+      "TAP",
+      "PAST",
+      "STAMP"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "A",
+      "R",
+      "T"
+    ],
+    "answers": [
+      "RAT",
+      "SAT",
+      "TAR",
+      "START"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "S"
+    ],
+    "answers": [
+      "RAT",
+      "SAT",
+      "TAR",
+      "START",
+      "STARTS"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "E",
+      "E",
+      "L"
+    ],
+    "answers": [
+      "LET",
+      "SEE",
+      "SET",
+      "LETS",
+      "STEEL"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "E",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "SEE",
+      "SET",
+      "REST",
+      "TREE",
+      "STEER",
+      "TREES"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "I",
+      "L",
+      "L"
+    ],
+    "answers": [
+      "ITS",
+      "SIT",
+      "LIST",
+      "STILL"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "O",
+      "R",
+      "Y"
+    ],
+    "answers": [
+      "ROT",
+      "TOY",
+      "TRY",
+      "TOYS",
+      "STORY"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "R",
+      "I",
+      "N",
+      "G"
+    ],
+    "answers": [
+      "ITS",
+      "SIT",
+      "GRIN",
+      "SIGN",
+      "SING",
+      "STRING"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "R",
+      "O",
+      "N",
+      "G"
+    ],
+    "answers": [
+      "GOT",
+      "NOT",
+      "ROT",
+      "TON",
+      "SONG",
+      "STRONG"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "T",
+      "Y",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "LET",
+      "SET",
+      "YES",
+      "YET",
+      "LETS",
+      "STYLE"
+    ]
+  },
+  {
+    "letters": [
+      "S",
+      "U",
+      "M",
+      "M",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "USE",
+      "SURE",
+      "SUMMER"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "ATE",
+      "BAT",
+      "EAT",
+      "LET",
+      "LATE",
+      "TABLE"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "A",
+      "S",
+      "T",
+      "Y"
+    ],
+    "answers": [
+      "SAT",
+      "SAY",
+      "TASTY"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "E",
+      "A",
+      "M",
+      "E",
+      "D"
+    ],
+    "answers": [
+      "ATE",
+      "EAT",
+      "MADE",
+      "MEAT",
+      "MEET",
+      "TEAMED"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "E",
+      "N",
+      "T",
+      "H"
+    ],
+    "answers": [
+      "HEN",
+      "TEN",
+      "THE",
+      "THEN",
+      "TENTH"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "A",
+      "N",
+      "K"
+    ],
+    "answers": [
+      "HAT",
+      "THAN",
+      "THANK"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "A",
+      "T",
+      "'",
+      "S"
+    ],
+    "answers": [
+      "HAS",
+      "HAT",
+      "SAT",
+      "THAT",
+      "THAT'S"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "E",
+      "I",
+      "R"
+    ],
+    "answers": [
+      "HER",
+      "HIT",
+      "THE",
+      "THEIR"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "E",
+      "R",
+      "E"
+    ],
+    "answers": [
+      "HER",
+      "THE",
+      "HERE",
+      "TREE",
+      "THERE",
+      "THREE"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "E",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SEE",
+      "SET",
+      "SHE",
+      "THE",
+      "THESE"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "I",
+      "N",
+      "G"
+    ],
+    "answers": [
+      "HIT",
+      "THIN",
+      "NIGHT",
+      "THING"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "I",
+      "N",
+      "K"
+    ],
+    "answers": [
+      "HIT",
+      "THIN",
+      "THINK"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "I",
+      "R",
+      "T",
+      "Y"
+    ],
+    "answers": [
+      "HIT",
+      "TRY",
+      "THIRTY"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "R",
+      "E",
+      "E"
+    ],
+    "answers": [
+      "HER",
+      "THE",
+      "HERE",
+      "TREE",
+      "THERE",
+      "THREE"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "R",
+      "E",
+      "W"
+    ],
+    "answers": [
+      "HER",
+      "THE",
+      "THREW"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "R",
+      "O",
+      "W"
+    ],
+    "answers": [
+      "HOT",
+      "HOW",
+      "ROT",
+      "TWO",
+      "WHO",
+      "THROW"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "H",
+      "U",
+      "M",
+      "B"
+    ],
+    "answers": [
+      "BUT",
+      "TUB",
+      "THUMB"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "O",
+      "D",
+      "A",
+      "Y"
+    ],
+    "answers": [
+      "DAY",
+      "TOY",
+      "TODAY"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "O",
+      "O",
+      "T",
+      "H"
+    ],
+    "answers": [
+      "HOT",
+      "TOO",
+      "TOOTH"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "O",
+      "U",
+      "C",
+      "H"
+    ],
+    "answers": [
+      "CUT",
+      "HOT",
+      "OUT",
+      "TOUCH"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "O",
+      "W",
+      "E",
+      "L"
+    ],
+    "answers": [
+      "LET",
+      "LOT",
+      "LOW",
+      "TOE",
+      "TWO",
+      "TOWEL"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "A",
+      "I",
+      "L"
+    ],
+    "answers": [
+      "AIR",
+      "RAT",
+      "TAR",
+      "TRAIL"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "E",
+      "A",
+      "T"
+    ],
+    "answers": [
+      "ARE",
+      "ATE",
+      "EAT",
+      "RAT",
+      "TAR",
+      "TREAT"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "E",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "SEE",
+      "SET",
+      "REST",
+      "TREE",
+      "STEER",
+      "TREES"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "R",
+      "I",
+      "E",
+      "S"
+    ],
+    "answers": [
+      "ITS",
+      "SET",
+      "SIT",
+      "REST",
+      "TRIES"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "U",
+      "N",
+      "N",
+      "E",
+      "L"
+    ],
+    "answers": [
+      "LET",
+      "TEN",
+      "TUNE",
+      "TUNNEL"
+    ]
+  },
+  {
+    "letters": [
+      "T",
+      "W",
+      "E",
+      "N",
+      "T",
+      "Y"
+    ],
+    "answers": [
+      "NEW",
+      "TEN",
+      "YET",
+      "WENT",
+      "TWENTY"
+    ]
+  },
+  {
+    "letters": [
+      "U",
+      "N",
+      "D",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "END",
+      "RED",
+      "RUN",
+      "UNDER"
+    ]
+  },
+  {
+    "letters": [
+      "U",
+      "S",
+      "E",
+      "F",
+      "U",
+      "L"
+    ],
+    "answers": [
+      "USE",
+      "SELF",
+      "USEFUL"
+    ]
+  },
+  {
+    "letters": [
+      "V",
+      "I",
+      "S",
+      "I",
+      "T"
+    ],
+    "answers": [
+      "ITS",
+      "SIT",
+      "VISIT"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "A",
+      "T",
+      "C",
+      "H"
+    ],
+    "answers": [
+      "CAT",
+      "HAT",
+      "WHAT",
+      "WATCH"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "A",
+      "T",
+      "C",
+      "H"
+    ],
+    "answers": [
+      "CAT",
+      "HAT",
+      "WHAT",
+      "WATCH"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "ARE",
+      "ATE",
+      "EAT",
+      "RAT",
+      "TAR",
+      "WATER"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "E",
+      "I",
+      "R",
+      "D"
+    ],
+    "answers": [
+      "RED",
+      "RIDE",
+      "WEIRD"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "H",
+      "E",
+      "R",
+      "E"
+    ],
+    "answers": [
+      "HER",
+      "HERE",
+      "WERE",
+      "WHERE"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "H",
+      "I",
+      "T",
+      "E"
+    ],
+    "answers": [
+      "HIT",
+      "THE",
+      "WITH",
+      "WHITE"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "H",
+      "O",
+      "L",
+      "E"
+    ],
+    "answers": [
+      "HOW",
+      "LOW",
+      "WHO",
+      "HOWL",
+      "WHOLE"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "I",
+      "N",
+      "D",
+      "O",
+      "W"
+    ],
+    "answers": [
+      "NOW",
+      "OWN",
+      "WIN",
+      "DOWN",
+      "WINDOW"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "I",
+      "N",
+      "D",
+      "O",
+      "W"
+    ],
+    "answers": [
+      "NOW",
+      "OWN",
+      "WIN",
+      "DOWN",
+      "WINDOW"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "I",
+      "N",
+      "T",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "NEW",
+      "TEN",
+      "WIN",
+      "WENT",
+      "WRITE",
+      "WINTER"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "I",
+      "N",
+      "T",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "NEW",
+      "TEN",
+      "WIN",
+      "WENT",
+      "WRITE",
+      "WINTER"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "O",
+      "M",
+      "E",
+      "N"
+    ],
+    "answers": [
+      "MEN",
+      "NEW",
+      "NOW",
+      "ONE",
+      "OWN",
+      "WOMEN"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "O",
+      "R",
+      "L",
+      "D"
+    ],
+    "answers": [
+      "LOW",
+      "OLD",
+      "WORD",
+      "WORLD"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "O",
+      "R",
+      "S",
+      "E"
+    ],
+    "answers": [
+      "SEW",
+      "ROSE",
+      "WORE",
+      "WORSE"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "O",
+      "U",
+      "L",
+      "D"
+    ],
+    "answers": [
+      "LOW",
+      "OLD",
+      "LOUD",
+      "WOULD"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "O",
+      "U",
+      "N",
+      "D"
+    ],
+    "answers": [
+      "NOW",
+      "OWN",
+      "DOWN",
+      "WOUND"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "R",
+      "I",
+      "S",
+      "T"
+    ],
+    "answers": [
+      "ITS",
+      "SIT",
+      "WRIST"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "R",
+      "O",
+      "N",
+      "G"
+    ],
+    "answers": [
+      "NOW",
+      "OWN",
+      "GROW",
+      "GROWN",
+      "WRONG"
+    ]
+  },
+  {
+    "letters": [
+      "W",
+      "R",
+      "O",
+      "T",
+      "E"
+    ],
+    "answers": [
+      "ROT",
+      "TOE",
+      "TWO",
+      "WORE",
+      "WROTE"
+    ]
+  },
+  {
+    "letters": [
+      "Y",
+      "E",
+      "L",
+      "L",
+      "O",
+      "W"
+    ],
+    "answers": [
+      "LOW",
+      "WELL",
+      "YELLOW"
+    ]
+  },
+  {
+    "letters": [
+      "Y",
+      "O",
+      "U",
+      "'",
+      "R",
+      "E"
+    ],
+    "answers": [
+      "OUR",
+      "YOU",
+      "YOUR",
+      "YOU'RE"
+    ]
+  },
+  {
+    "letters": [
+      "Z",
+      "E",
+      "B",
+      "R",
+      "A"
+    ],
+    "answers": [
+      "ARE",
+      "BEAR",
+      "ZEBRA"
+    ]
+  },
+  {
+    "letters": [
+      "Z",
+      "I",
+      "P",
+      "P",
+      "E",
+      "R"
+    ],
+    "answers": [
+      "RIP",
+      "ZIP",
+      "PRIZE",
+      "ZIPPER"
+    ]
+  }
+]

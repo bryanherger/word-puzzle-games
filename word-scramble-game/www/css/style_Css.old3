@@ -1,0 +1,203 @@
+#game-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    min-height: 100vh; /* Ensure container fills viewport height */
+    display: flex;
+    flex-direction: column;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+h1 {
+    margin: 0;
+    padding-right: 20px;
+}
+
+#help-btn {
+    padding: 5px 15px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#help-btn:hover {
+    background-color: #0056b3;
+}
+
+#game-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1; /* Allow content to expand and center vertically */
+}
+
+#letter-circle {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+}
+
+#letter-tiles {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.tile {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #f0f0f0;
+    border: 2px solid #333;
+    text-align: center;
+    line-height: 50px;
+    font-size: 24px;
+    cursor: move;
+    transform: translate(-50%, -50%);
+    touch-action: none;
+}
+
+.tile.dragging {
+    opacity: 0.7;
+    z-index: 10;
+}
+
+#word-slots {
+    margin: 20px 0;
+    width: 100%;
+    max-width: 600px;
+}
+
+.slot-row {
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slot {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 2px dashed #666;
+    margin: 5px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.slot.filled {
+    background-color: #d0ffd0;
+    border: 2px solid #333;
+}
+
+.slot.correct {
+    background-color: #00cc00;
+    color: white;
+}
+
+.trash-icon {
+    margin-left: 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#footer {
+    margin-top: 20px;
+}
+
+#about-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+#about-link:hover {
+    text-decoration: underline;
+}
+
+/* Dialog Styles */
+#help-dialog, #congrats-dialog {
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.dialog-content {
+    text-align: left;
+}
+
+.dialog-content h2 {
+    margin-top: 0;
+}
+
+.dialog-content ul {
+    padding-left: 20px;
+}
+
+#close-help-btn, #continue-btn {
+    display: block;
+    margin: 20px auto 0;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#close-help-btn:hover, #continue-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Responsive Layout: Landscape/Wider Screens */
+@media (min-width: 768px) and (orientation: landscape) {
+    #game-content {
+        flex-direction: row;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        height: calc(100vh - 150px); /* Adjust for header, reset, footer */
+    }
+
+    #letter-circle {
+        margin: 0 20px 0 0; /* Space to the right, no top/bottom margin */
+        flex-shrink: 0;
+    }
+
+    #word-slots {
+        margin: 0 0 0 20px; /* Space to the left, no top/bottom margin */
+        max-width: 400px;
+    }
+
+    .slot-row {
+        justify-content: flex-start; /* Align slots to the left */
+    }
+}
+
+/* Portrait/Narrow Screens */
+@media (max-width: 767px) and (orientation: portrait) {
+    #letter-circle {
+        margin: 20px auto;
+    }
+
+    #word-slots {
+        margin: 20px 0;
+    }
+}

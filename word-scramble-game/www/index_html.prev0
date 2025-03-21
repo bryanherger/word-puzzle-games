@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Word Scramble Game</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="game-container">
+        <div id="header">
+            <h1>Word Scramble</h1>
+            <button id="help-btn">Help</button>
+        </div>
+        <div id="letter-circle">
+            <div id="letter-tiles"></div>
+        </div>
+        <div id="word-slots"></div>
+        <button id="reset-btn">Reset</button>
+        <div id="feedback"></div>
+        <div id="footer">
+            <a href="about.html" id="about-link">About</a>
+        </div>
+    </div>
+
+    <!-- Help Dialog -->
+    <dialog id="help-dialog">
+        <div class="dialog-content">
+            <h2>How to Play</h2>
+            <p>Welcome to Word Scramble! Here’s how to play:</p>
+            <ul>
+                <li>Drag the letter tiles from the circle into the empty slots below to form words.</li>
+                <li>Each slot row represents a word you need to find. The number of slots matches the word length.</li>
+                <li>You can only use the letters provided, and each letter can’t be used more times than it appears in the circle.</li>
+                <li>Once a row is filled, it will check if the word is correct and unique. Correct words turn green!</li>
+                <li>Click a filled slot to remove a letter, or use the trash icon to clear a row.</li>
+                <li>Press "Reset" to start a new puzzle with different letters.</li>
+            </ul>
+            <button id="close-help-btn">Close</button>
+        </div>
+    </dialog>
+
+    <!-- Congratulations Dialog -->
+    <dialog id="congrats-dialog">
+        <div class="dialog-content">
+            <h2>Congratulations!</h2>
+            <p>You’ve solved all the words in this puzzle! Great job!</p>
+            <button id="continue-btn">Continue</button>
+        </div>
+    </dialog>
+
+    <script src="cordova.js"></script>
+    <script src="js/game.js"></script>
+</body>
+</html>
